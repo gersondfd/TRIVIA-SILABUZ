@@ -128,6 +128,8 @@ else:
 
 print(" \nTu puntaje final es de ",puntaje,"ptos")
 
+print("commit1")
+
 '''Fuente de la preguntas: https://www.todamateria.com/preguntas-de-cultura-general/''' 
 
 '''cambio para diferencias'''
